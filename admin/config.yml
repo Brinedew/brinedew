@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Brinedew/brinedew
+  repo: Brinedew/brinedew-site
   branch: main
   site_domain: chimerical-kringle-bca023.netlify.app # Often needed for local testing with Netlify Identity
                                                       # or if your production site domain is different.
